@@ -21,7 +21,7 @@ setup(
         line.strip()
         for line in read('requirements.txt').splitlines()
         if bool(line.strip())
-    ]
+    ],
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
