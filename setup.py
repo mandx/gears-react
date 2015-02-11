@@ -13,8 +13,8 @@ setup(
     license='ISC',
     author='Armando Perez Marques',
     author_email='gmandx@gmail.com',
-    description='CoffeeScript compiler for React/JSX',
-    long_description=read('README.rst'),
+    description='Gears compiler for React/JSX',
+    long_description=read('README.md'),
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
