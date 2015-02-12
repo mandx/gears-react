@@ -8,7 +8,7 @@ def read(filename):
 
 setup(
     name='gears-react',
-    version='0.1',
+    version='0.2',
     url='https://github.com/mandx/gears-react',
     license='ISC',
     author='Armando Perez Marques',
